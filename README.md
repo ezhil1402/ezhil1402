@@ -151,26 +151,25 @@ certs:       Infosys Springboard,
 <!-- ============================================================ -->
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ezhil1402&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhil1402&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=ezhil1402&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<br/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ezhil1402&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ezhil1402&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</p>
 
-<br/>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ezhil1402&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhil1402&theme=react-dark&hide_border=true"/>
 
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ezhil1402&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
+</p>
 
 ### 🐍 Contribution Snake
 
@@ -178,7 +177,7 @@ certs:       Infosys Springboard,
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezhil1402/ezhil1402/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezhil1402/ezhil1402/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ezhil1402/ezhil1402/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ezhil1402/ezhil1402/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </picture>
 </div>
 
@@ -187,12 +186,15 @@ certs:       Infosys Springboard,
 <!-- ============================================================ -->
 <!--                           FOOTER                              -->
 <!-- ============================================================ -->
-<div align="center">
+---
 
+<div align="center"> 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-**_Thanks for stopping by — always happy to connect and learn together!_**
+### Thank you for visiting my profile!
 
-⭐️ If any of my work is useful to you, consider [following](https://github.com/ezhil1402) or starring a repo.
+*I’m always open to collaborating on AI, Machine Learning, and Open Source projects.*
+
+⭐ If you find my work helpful, consider **starring** my repositories and **following** me for future updates.
 
 </div>
